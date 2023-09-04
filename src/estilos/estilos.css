@@ -1,0 +1,37 @@
+.input{
+    height: 25px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #bcbce6;
+    color: rgb(37, 34, 34);
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    box-shadow:  -1px 4px 1px 1px white;
+    
+}
+.conver{
+    
+    background-color: #bcbce6;
+    columns: 1;
+    
+    
+}
+.buttonContainer {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  #resul {
+        color: rgb(235, 80, 14);
+        font-weight: 100;
+
+  }
